@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "update": "^0.7.4"
+  }
+}
